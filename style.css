@@ -19,7 +19,7 @@ body{
 h1{
   font-size: 2rem;
   color: white;
-  animation: fadeInDown;
+  animation: infinite tada;
   animation-duration: 4s;
 }
 

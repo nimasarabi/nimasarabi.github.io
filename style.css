@@ -19,6 +19,8 @@ body{
 h1{
   font-size: 2rem;
   color: white;
+  animation: infinite bounceIn;
+  animation-duration: 10s
 }
 
 
@@ -49,8 +51,8 @@ hr{
   background-color: #ef7e4c;
   border-color:#ef7e4c;
   transition: all .2s ease-in-out;
-  animation: infinite tada;
-  animation-duration: 8s;
+  /* animation: infinite tada; */
+  /* animation-duration: 2s; */
 }
 
 .btn-primary:hover{
